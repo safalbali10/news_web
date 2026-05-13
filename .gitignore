@@ -1,0 +1,10 @@
+# Never commit the API key
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS junk
+.DS_Store
